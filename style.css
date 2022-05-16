@@ -1,0 +1,401 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.one{
+    display: flex;
+    background-color: #E8E9EB;
+    margin-left: 450px;
+    margin-right: 450px;
+    height: 900px;
+    justify-content: center;
+    align-items: center;
+}
+
+.two{
+    display: flex;
+    flex-direction: column;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    height: 800px;
+    width: 300px;
+}
+.threeA{
+    display: flex;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: #eb2217;
+}
+
+.threeB{
+    display: flex;
+    margin-left: 5px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color:#EBBB4C;
+}
+
+.threeC{
+    display: flex;
+    margin-left: 5px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color:#2CBC43;
+}
+
+.three{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.fourA{
+    display: flex;
+    border-radius: 10px;
+    width: 35px;
+    height: 35px;
+    background-color: black;
+}
+
+.fourB{
+    margin-left: 8px;
+    margin-top: 6.7px;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+}
+
+.fourC{
+    width: 7px;
+    height: 7px;
+    background-color: black;
+    border-radius: 15px;
+    margin-top: 6.2px;
+    margin-left: 6.5px;
+}
+
+.four{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.five{
+    display: flex;
+    flex-direction: row;
+    background-color: #EFEFEF;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 35px;
+}
+
+.fiveB{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.fiveA{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.six{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 35px;
+}
+
+.sixA{
+    margin-left: 7px;
+    color: #B1B4BA;
+    font-size: 22px;
+}
+
+.sixB{
+    margin-left: 10px;
+    color: #B1B4BA;
+    margin-top: 3px;
+}
+
+.sixC{
+    display: flex;
+    margin-left: 150px;
+    color: #B1B4BA;
+    margin-top: 4px;    
+}
+
+.seven{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 35px;    
+}
+
+.sevenA{
+    margin-left: 7px;
+    color: #B1B4BA;
+    font-size: 22px;
+}    
+
+.sevenB{
+    margin-left: 10px;
+    color: #B1B4BA;
+    margin-top: 3px;    
+}
+
+.sevenC{
+    border-radius: 5px;
+    background-color: #A8F1DB;
+    width: 15px;
+    height: 15px;
+    margin-left: 180px;    
+}
+
+.sevenD{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    font-size: 11px;
+    margin-top: 1.5px;    
+}
+
+.eight{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 35px;        
+}
+
+.eightA{
+    margin-left: 7px;
+    color: #B1B4BA;
+    font-size: 22px;    
+}
+
+.eightB{
+    margin-left: 10px;
+    color: #B1B4BA;
+    margin-top: 3px;    
+}    
+
+.eightC{
+    color: #B1B4BA;
+    margin-left: 128px;  
+}
+
+.eightD{
+    border-radius: 5px;
+    background-color: #FAC2A1;
+    width: 15px;
+    height: 15px;
+    margin-left: 5px;
+}
+
+.eightE{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    font-size: 11px;
+    margin-top: 1.5px;
+}
+
+.nine{
+    display: flex;
+    flex-direction: row;
+    background-color: #EFEFEF;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 35px;
+}
+
+.nineA{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.nineB{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;    
+}
+
+.nineC{
+    margin-left: 160px;
+    margin-top: 10px;
+}
+
+.ten{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 10px;
+    height:30px;     
+}
+
+.tenA{
+    color: #B1B4BA;
+    margin-left: 10px;
+}
+
+.eleven{
+    display: flex;
+    flex-direction: row;
+    background-color: #EFEFEF;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 35px;   
+}
+
+.elevenA{
+    display: flex;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.elevenB{
+    display: flex;
+    margin-left: 155px;
+    color: #B1B4BA;
+    margin-top: 10px;     
+}
+
+.twelve{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 10px;
+    height:30px;    
+}
+
+.twelveA{
+    color: #B1B4BA;
+    margin-left: 10px;
+}
+
+.thirteen{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 5px;
+    height:30px; 
+}
+
+.thirteenA{
+    color: #B1B4BA;
+    margin-left: 10px;
+}
+
+.fourteen{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: 35px;
+}
+
+.fourteenB{
+    margin-left: 10px;
+    color: #B1B4BA;
+    margin-top: 3px;
+}
+
+.fourteenA{
+    margin-left: 7px;
+    color: #B1B4BA;
+    font-size: 22px;
+}
+
+.fifteenB{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.fifteenA{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: #2887FF;
+}
+
+.fifteen{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: dotted;
+    border-color: #E3E3E3;
+    border-radius: 25px;
+    width: 230px;
+    height: 150px;
+    margin-top: 65px;
+    margin-left: 30px;
+}
+
+.fifteenD{
+    display: flex;
+    color:  #B1B4BA;
+}
+
+.aa{
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #F6F5F5;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+
+.bb{
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    width: 85px;
+    background-color: #FEFEFE;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.dd{
+    display: flex;
+    margin-left: 20px;
+}
+
+.ee{
+    display: flex;
+    margin-left: 85px;
+    margin-top: 5px;
+    color: #B1B4BA;
+}
+
+.ff{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: #B1B4BA;
+}
